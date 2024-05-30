@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Settings/URP Asset 1_Renderer.asset.meta
+guid: 06fbaeefaacd29d44987d802275ce0f1
+=======
 guid: 85c5b31310674e340b4e00b6c39af0f7
+>>>>>>> 0.2.1:Assets/Settings/UniversalRenderPipelineGlobalSettings.asset.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000
